@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://danielocallaghan.github.io/sitemap.xml 
+Sitemap: http://www.danielocallaghan.com/sitemap.xml 
